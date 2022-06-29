@@ -8,7 +8,7 @@
 
 第一步：`git clone git@github.com:Leooeloel/dice.git`
 
-第二步：`cd dice` 找到目录下的 .env.example 文件，重命名为 .env 后，在里面填写必须的白板房间配置环境，参考[配置白板房间](https://github.com/Leooeloel/dice/tree/react#%E9%85%8D%E7%BD%AE%E7%99%BD%E6%9D%BF%E6%88%BF%E9%97%B4)
+第二步：`cd dice` 找到目录下的 .env.example 文件，重命名为 .env 后，在里面填写必须的白板房间配置环境，参考[配置白板房间](https://github.com/Leooeloel/dice#%E9%85%8D%E7%BD%AE%E7%99%BD%E6%9D%BF%E6%88%BF%E9%97%B4)
 
 第三步：下载项目依赖 `npm install`
 
