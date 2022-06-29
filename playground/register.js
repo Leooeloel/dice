@@ -12,7 +12,7 @@ apps.push({
     fastboard.manager.addApp({
       kind: App.kind,
       options: {
-        title: "dice",
+        title: "Dice",
       },
     });
   },
