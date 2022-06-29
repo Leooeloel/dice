@@ -2,7 +2,7 @@
 
 本 demo 是基于 [community-app-template](https://github.com/netless-io/community-app-template) 模版开发的互动骰子小工具
 
-![](https://netless-docs.oss-cn-hangzhou.aliyuncs.com/Leo/dice.jpg)
+![](https://netless-docs.oss-cn-hangzhou.aliyuncs.com/Leo/dice.png)
 ## 快速开始
 前置条件：至少需要安装了 `git`、`node 16`、`npm 8`
 
