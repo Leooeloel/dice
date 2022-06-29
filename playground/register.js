@@ -8,7 +8,12 @@ apps.push({
   kind: App.kind,
   label: App.kind.replace(/([a-z])([A-Z])/g, "$1 $2"),
   icon: logo,
-  onClick: fastboard => {
-    fastboard.manager.addApp({ kind: App.kind });
+  onClick: (fastboard) => {
+    fastboard.manager.addApp({
+      kind: App.kind,
+      options: {
+        title: "dice",
+      },
+    });
   },
 });
